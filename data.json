@@ -1,0 +1,215 @@
+{
+    "nodes": [
+        {
+            "id": "13",
+            "label": "",
+            "x": 473,
+            "y": 483,
+            "size": 2
+        },
+        {
+            "id": "14",
+            "label": "",
+            "x": 81,
+            "y": 294,
+            "size": 2
+        },
+        {
+            "id": "15",
+            "label": "",
+            "x": 382,
+            "y": 434,
+            "size": 2
+        },
+        {
+            "id": "16",
+            "label": "",
+            "x": 481,
+            "y": 457,
+            "size": 2
+        },
+        {
+            "id": "17",
+            "label": "",
+            "x": 406,
+            "y": 65,
+            "size": 2
+        },
+        {
+            "id": "18",
+            "label": "",
+            "x": 490,
+            "y": 254,
+            "size": 2
+        },
+        {
+            "id": "19",
+            "label": "",
+            "x": 40,
+            "y": 43,
+            "size": 2
+        },
+        {
+            "id": "20",
+            "label": "",
+            "x": 251,
+            "y": 312,
+            "size": 2
+        },
+        {
+            "id": "21",
+            "label": "",
+            "x": 437,
+            "y": 388,
+            "size": 2
+        },
+        {
+            "id": "22",
+            "label": "",
+            "x": 136,
+            "y": 149,
+            "size": 2
+        },
+        {
+            "id": "23",
+            "label": "",
+            "x": 315,
+            "y": 449,
+            "size": 2
+        },
+        {
+            "id": "24",
+            "label": "",
+            "x": 90,
+            "y": 472,
+            "size": 2
+        },
+        {
+            "id": "25",
+            "label": "",
+            "x": 451,
+            "y": 181,
+            "size": 2
+        },
+        {
+            "id": "26",
+            "label": "",
+            "x": 161,
+            "y": 166,
+            "size": 2
+        },
+        {
+            "id": "27",
+            "label": "",
+            "x": 119,
+            "y": 73,
+            "size": 2
+        },
+        {
+            "id": "28",
+            "label": "",
+            "x": 390,
+            "y": 274,
+            "size": 2
+        },
+        {
+            "id": "29",
+            "label": "",
+            "x": 281,
+            "y": 261,
+            "size": 2
+        }
+    ],
+    "edges": [
+        {
+            "id": "0",
+            "source": "13",
+            "target": "14",
+            "type": "arrow"
+        },
+        {
+            "id": "1",
+            "source": "13",
+            "target": "15",
+            "type": "arrow"
+        },
+        {
+            "id": "2",
+            "source": "16",
+            "target": "17",
+            "type": "arrow"
+        },
+        {
+            "id": "3",
+            "source": "16",
+            "target": "18",
+            "type": "arrow"
+        },
+        {
+            "id": "4",
+            "source": "13",
+            "target": "17",
+            "type": "arrow"
+        },
+        {
+            "id": "5",
+            "source": "19",
+            "target": "20",
+            "type": "arrow"
+        },
+        {
+            "id": "6",
+            "source": "19",
+            "target": "21",
+            "type": "arrow"
+        },
+        {
+            "id": "7",
+            "source": "19",
+            "target": "22",
+            "type": "arrow"
+        },
+        {
+            "id": "8",
+            "source": "19",
+            "target": "23",
+            "type": "arrow"
+        },
+        {
+            "id": "9",
+            "source": "19",
+            "target": "24",
+            "type": "arrow"
+        },
+        {
+            "id": "10",
+            "source": "19",
+            "target": "25",
+            "type": "arrow"
+        },
+        {
+            "id": "11",
+            "source": "19",
+            "target": "26",
+            "type": "arrow"
+        },
+        {
+            "id": "12",
+            "source": "19",
+            "target": "27",
+            "type": "arrow"
+        },
+        {
+            "id": "13",
+            "source": "19",
+            "target": "28",
+            "type": "arrow"
+        },
+        {
+            "id": "14",
+            "source": "19",
+            "target": "29",
+            "type": "arrow"
+        }
+    ]
+}
